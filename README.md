@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
