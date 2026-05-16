@@ -5,16 +5,16 @@ class Solution {
             return;
         }
         for(int i=0; i<nums.length; i++)
-        if(!flag[i+10]){
+        if(!flag[i]){
             ds.add(nums[i]);
-            flag[i+10]=true;
+            flag[i]=true;
             fn(i+1,nums,flag,ds,ans);
             ds.remove(ds.size()-1);
-            flag[i+10]=false;
+            flag[i]=false;
         }
     }
     public List<List<Integer>> permute(int[] nums) {
-        boolean [] flag=new boolean[21];
+        boolean [] flag=new boolean[nums.length];
         List<List<Integer>> ans=new ArrayList<>();
         fn(0,nums,flag,new ArrayList<>(),ans);
         return ans;
