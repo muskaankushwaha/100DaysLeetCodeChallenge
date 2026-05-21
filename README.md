@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
+| [0212-word-search-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
