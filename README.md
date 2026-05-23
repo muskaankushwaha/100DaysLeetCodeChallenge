@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2540-minimum-common-value](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
