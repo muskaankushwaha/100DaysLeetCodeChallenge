@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
