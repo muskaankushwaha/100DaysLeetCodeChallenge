@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
