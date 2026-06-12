@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
