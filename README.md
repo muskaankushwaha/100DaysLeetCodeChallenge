@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 ## Greedy
