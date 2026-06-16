@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [3612-process-string-with-special-operations-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
 | ------- |
