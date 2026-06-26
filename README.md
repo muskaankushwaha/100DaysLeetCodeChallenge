@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
