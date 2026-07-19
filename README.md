@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
