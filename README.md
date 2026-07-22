@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1732-find-the-highest-altitude](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 ## Stack
 |  |
 | ------- |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2540-minimum-common-value](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Binary Search Tree
 |  |
