@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 ## Divide and Conquer
@@ -664,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
